@@ -28,6 +28,14 @@ gem 'jquery-rails'
 gem 'popper_js', '~> 1.16.0'
 gem 'sassc-rails'
 gem 'devise-bootstrap-views'
+# Gemfile
+
+gem 'alphavantage'
+# Gemfile
+
+gem 'dotenv-rails'
+
+
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
